@@ -1,2 +1,2 @@
 # 2025-TallerGit-SQA-B-Andrea
-    Mi primera actualización
+    La actualizacion de la tarea
